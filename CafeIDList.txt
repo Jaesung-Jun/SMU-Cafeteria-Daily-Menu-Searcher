@@ -1,0 +1,25 @@
+Current Class Struct
+1. Form1
+2. Crawling_Semyung
+	2-1. FunctionForCrawling
+	2-2. ExceptionForCrawling_All
+3.Database
+{
+4. Kakao
+	4-1:Kakao_Datasend
+	4-2:Kakao_DataRequest
+5. Advertisement
+6. json
+}
+
+GH001 :65번가
+GH002 :학생회관자율식당
+-> ==65번가
+GH006 : 학생회관학생식당
+GH007 : 세명식당(세명학사)
+-> 페이지없음		
+GH008 :예지학사식당
+
+class명 : ClassName
+함수명 : Function_Name
+변수명 : variableName
